@@ -14,6 +14,6 @@ public class Main {
         System.out.println("CARDS: ");
         Card card = new Card();
         System.out.println(card.showAllCards());
+        System.out.println("That's all!");
     }
-
 }
